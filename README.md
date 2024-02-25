@@ -11,9 +11,7 @@ This app helps you calculate different Limit expressions you just gotta input th
 
 
 ## Demo
-
-![Demo](https://github.com/arashgholiyan/Limit-Calculator/assets/92367604/c65ab0f2-27e9-4f77-a188-6dccff9b4d8d)
-
+![Demo](https://github.com/arashgholiyan/Limit-Calculator/assets/92367604/7bde6fa4-17bf-48b5-8ac1-fce811cd4456)
 
 ## Installation
 

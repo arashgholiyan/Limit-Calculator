@@ -12,7 +12,7 @@ This app helps you calculate different Limit expressions you just gotta input th
 
 ## Demo
 
-Insert gif or link to demo
+The demo of the app will be displayed here
 
 
 ## Installation

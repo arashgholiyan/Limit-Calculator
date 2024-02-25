@@ -1,3 +1,1 @@
-*.py linguist-detectable=true,language=Python
-*.html linguist-detectable=false, no-index
-*.tex linguist-detectable=false, no-index
+static/* linguist-vendored
